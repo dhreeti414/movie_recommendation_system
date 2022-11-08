@@ -16,10 +16,10 @@
 
 <h3>4. Front-End Information</h3>
 <h4>The front-end consists of 4 web pages:
-<ul><li>About Page - The first page which is displayed to the user is about page where user finds out a paragraph related to the the movie recommendation system.
-<li>Content Based Recommendation System Page - On this page, the user give some input by selecting a movie from the drop-down menu and click on the show recommendation button then a list of recommended movie based on content filtering technique is displayed.
-<li>Collaborative Based Recommendation System Page - On this page, the user give input by selecting a movie and a rating on it then a list of recommended movies displayed to the user based on the collaborative filtering technique. 
-<li>Popularity Based Recommendation System Page - On this page, the user finds the movies which are popular at that time according to the user id.</ul></h4>
+<ul><li><b>About Page</b> - The first page which is displayed to the user is about page where user finds out a paragraph related to the the movie recommendation system.
+<li><b>Content Based Recommendation System Page</b> - On this page, the user give some input by selecting a movie from the drop-down menu and click on the show recommendation button then a list of recommended movie based on content filtering technique is displayed.
+<li><b>Collaborative Based Recommendation System Page</b> - On this page, the user give input by selecting a movie and a rating on it then a list of recommended movies displayed to the user based on the collaborative filtering technique. 
+<li><b>Popularity Based Recommendation System Page</b> - On this page, the user finds the movies which are popular at that time according to the user id.</ul></h4>
 
 <h3>5. Project Workflow</h3>
 <h4><ul><li>This project is basically an implementation of Movie Recommender System using different filtering techniques used in machine learning.
